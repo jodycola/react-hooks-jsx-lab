@@ -2,9 +2,9 @@ import React from "react";
 
 function NavBar() {
   // update the JSX being returned!
-  return <nav>NavBar
-  <a href="./home.js">Home</a>
-  <a href="./about.js">About</a>
+  return <nav>
+  <a href="#home">Home</a>
+  <a href="#about">About</a>
   </nav>
 }
 
